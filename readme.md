@@ -2,7 +2,9 @@
 
 ## Requirements
 Python 3.6 or later
+
 .net Core 3.1 or later
+
 SQLServer 2017 or later
 
 ## Configuration for PythonWorkers
