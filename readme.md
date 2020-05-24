@@ -28,7 +28,7 @@ python PythonWorkers/tweet_processing.py
 python PythonWorkers/data_analysis.py
 ```
 
-###Configuration for DataVisualization
+### Configuration for DataVisualization
 - Open another terminal and run the following command to analyse the tweets
 ```bash
 dotnet run DataVisualization/DataVisualization.csproj
